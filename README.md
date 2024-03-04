@@ -20,8 +20,8 @@ This repository contains the code for a responsive portfolio website built using
 
 **Technologies Used**
 
-HTML
-CSS (with UNICONS and Font Awesome for icons)
+HTML,
+CSS (with UNICONS and Font Awesome for icons),
 JavaScript
 
 
