@@ -297,7 +297,6 @@ img{
 
 .home__description{
     margin-bottom: var(--mb-2);
-    text-align: justify;
 }
 
 .home__scroll{
@@ -326,6 +325,13 @@ img{
 
 .home__scroll-arrow{
     font-size: 1.25rem;
+}
+
+button{
+    border: none;
+    outline: none;
+    cursor: pointer;
+
 }
 
 .button{
@@ -361,7 +367,7 @@ img{
 }
 
 .about__description{
-    text-align: justify;
+    text-align: center;
     margin-bottom: var(--mb-2-5);
 }
 
