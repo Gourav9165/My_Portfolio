@@ -7,11 +7,11 @@ This repository contains the code for a responsive portfolio website built using
 
 **Home:** Introduction and social media links.
 
-**About:** Details about Gourav Sen and his educational background.
+**About:** Details about me and my educational background.
 
 **Skills**: Displays technical skills categorized into frontend development, backend development, and database management.
 
-**Qualification:** Provides information about Gourav Sen's education and work experience.
+**Qualification:** Provides information about my education and work experience.
 
 **Contact Me:** Allows visitors to get in touch via email, phone, or by filling out a contact form.
 
