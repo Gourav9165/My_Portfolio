@@ -465,15 +465,15 @@ button{
 }
 
 .skills__html{
-    width: 90%;
+    width: 95%;
 }
 
 .skills__css{
-    width: 40%;
+    width: 80%;
 }
 
 .skills__js{
-    width: 10%;
+    width: 60%;
 }
 
 /* .skills__react{
@@ -689,7 +689,7 @@ button{
 .footer__copy{
     font-size: var(--smaller-font-size);
     text-align: center;
-    color: #fff;
+    color: #ffffff;
     margin-top: var(--mb-3);
 }
 
